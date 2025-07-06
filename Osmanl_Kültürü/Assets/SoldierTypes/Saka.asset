@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a342b4813a635a14bb7efd0d4093dad5, type: 3}
+  m_Name: Saka
+  m_EditorClassIdentifier: 
+  id: cddb4010-0814-480d-9942-9274e17a6dfc
+  nameString: Saka
+  icon: {fileID: 21300000, guid: 6ae37e570ce274749a5b2e1aa717d528, type: 3}
+  health: 75
+  cost: 25
+  speed: 3
+  damage: 15
+  missChance: 0
+  attackCooldown: 30
+  critChance: 10
+  dodgeChance: 40
+  critMultiplier: 2
+  attackRange: 5
+  prefab: {fileID: 4738134305022674305, guid: 3301ddd12be3a4c45a539d2653b38ac2, type: 3}
+  visual: {fileID: 4738134305022674305, guid: 3301ddd12be3a4c45a539d2653b38ac2, type: 3}
+  isEnemy: 0

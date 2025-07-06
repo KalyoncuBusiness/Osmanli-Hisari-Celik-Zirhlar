@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a342b4813a635a14bb7efd0d4093dad5, type: 3}
+  m_Name: Sovalye
+  m_EditorClassIdentifier: 
+  id: f7d019cd-65a1-46e3-8633-9c370727cbe6
+  nameString: "\u015E\xF6valye"
+  icon: {fileID: 21300000, guid: 88c1e371d0ca46d4d93850f131d24046, type: 3}
+  health: 170
+  cost: 30
+  speed: 1.5
+  damage: 15
+  missChance: 12
+  attackCooldown: 15
+  critChance: 40
+  dodgeChance: 10
+  critMultiplier: 1.5
+  attackRange: 0.75
+  prefab: {fileID: 2370188448816223676, guid: 135dd7c4e3f2b8847972d7fbe0a19d9b, type: 3}
+  visual: {fileID: 2370188448816223676, guid: 135dd7c4e3f2b8847972d7fbe0a19d9b, type: 3}
+  isEnemy: 1

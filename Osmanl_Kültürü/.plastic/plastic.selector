@@ -1,0 +1,4 @@
+repository "Osmanl_Kültürü@JamJacquesRousseau@cloud"
+  path "/"
+    br "/main"
+    co "/main"

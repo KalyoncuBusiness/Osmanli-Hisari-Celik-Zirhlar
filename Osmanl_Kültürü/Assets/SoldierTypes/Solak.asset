@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a342b4813a635a14bb7efd0d4093dad5, type: 3}
+  m_Name: Solak
+  m_EditorClassIdentifier: 
+  id: 22da8d1d-5414-485d-a93f-53f376eeeb88
+  nameString: Solak
+  icon: {fileID: 21300000, guid: 831b8afeb0ff2154dbd503eccd00d766, type: 3}
+  health: 140
+  cost: 15
+  speed: 2
+  damage: 30
+  missChance: 20
+  attackCooldown: 18
+  critChance: 15
+  dodgeChance: 15
+  critMultiplier: 1.5
+  attackRange: 5
+  prefab: {fileID: 5021478514381737502, guid: 65f95ede8fba4d644a54546ff5f1aadd, type: 3}
+  visual: {fileID: 5021478514381737502, guid: 65f95ede8fba4d644a54546ff5f1aadd, type: 3}
+  isEnemy: 0
